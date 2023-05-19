@@ -1,8 +1,17 @@
 # Web-Based Caesar Cipher Game with Flask (Python)
 
-![ceasercipher flask scrren shot 1](https://github.com/Abdulkaif/Web-Based-Caesar-Cipher-Game-with-Flask-Python-/assets/106536144/a21a8b7d-faa9-45f2-9487-906a3a76d417)
+![ceaser cipher flask 1](https://github.com/Abdulkaif/Web-Based-Caesar-Cipher-Game-with-Flask-Python-/assets/106536144/5a74d43d-4d9e-4b49-947c-6acbf73cc30b)
+
+Encode or Decode option specifies whether user wants to encode something or decode something.
+
+Message is the text which will be encoded by the algorithm.
+
+Shift number is like the secret key which encodes or decodes the message.
+
+![ceaser cipher flask 2](https://github.com/Abdulkaif/Web-Based-Caesar-Cipher-Game-with-Flask-Python-/assets/106536144/93b98b5a-4604-4b8a-89e0-6b9c8c28784c)
 
 
-![ceasercipher flask scrren shot 2](https://github.com/Abdulkaif/Web-Based-Caesar-Cipher-Game-with-Flask-Python-/assets/106536144/f8e87c6c-bcf9-43dc-8549-a44cb9d31727)
+At the end when user clicks the Submit button, user receives a string containing the encoded/decoded message.
+
 
 
